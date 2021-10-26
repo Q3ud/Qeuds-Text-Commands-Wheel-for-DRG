@@ -1,4 +1,4 @@
-# Text Commands Wheel for Deep Rock Galactic
+# Link for the mod
 https://drg.mod.io/text-commands-wheel
 
 I did not make or publish the mod.  
