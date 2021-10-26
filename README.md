@@ -1,6 +1,9 @@
 # Text Commands Wheel for Deep Rock Galactic: 
 https://drg.mod.io/text-commands-wheel
 
+I did not make or publish the mod.
+This repository only provides tamplates that can be used for the mod.
+
 # Qeud's Text Commands Wheels for DRG
 Available in: English, Korean(한국어), Japanese(日本語), Simplified Chinese(简体中文)  
 Updated by 2021/10/26
